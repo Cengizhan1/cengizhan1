@@ -1,7 +1,11 @@
 # 💫 About Me:
-Hello! I'm Cengizhan, an experienced software engineer with 1 year of experience in PHP. Additionally, I'm improving myself in Java (Spring Boot, Hibernate, Spring Security) and keeping up with the latest industry trends. I develop my projects using layered architecture and microservices architecture with Java.
-
-Collaboration and problem-solving are my strong suits. I enjoy working in teams to deliver successful projects. I'm committed to continuous learning and improving my skills. Let's connect and create amazing software solutions together!
+I have over 1 year of experience as a Software Engineer, specializing in Java, Layered Architecture
+and Microservice Architecture. I excel in collaborative environments, relish tackling complex
+problems, and take complete accountability for my work.
+I successfully completed the Full Stack Bootcamp organized by Techcareer.net. During this program, I
+developed projects using Java Spring Boot and made contributions to front-end development with
+React. Additionally, I gained experience in various areas such as Hibernate, Spring Security and
+Spring Cloud. I also write articles on various software-related topics on the Medium platform
 
 linkedin = https://www.linkedin.com/in/cengizhan-yavuz-586907228/
 
